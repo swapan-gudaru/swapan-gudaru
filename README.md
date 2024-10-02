@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently a student at the University of Michigan pursuing a BSE in Computer Science. My academic journey has fuelled a profound interest in software development, data analysis, artificial intelligence, and machine learning domains. Actively pursuing opportunities to apply my academic knowledge, I am particularly proficient in code development, specializing in both C++ and Python. Whether it is engineering solutions or deciphering datasets, I am committed to significantly contributing to the tech landscape. I am looking for opportunities to apply my coding and analytical skills to real-world projects, further honing my abilities and gaining valuable industry experience.
+
 <!--
 **swapan-gudaru/swapan-gudaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
